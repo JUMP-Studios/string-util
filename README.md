@@ -1,17 +1,17 @@
-[![ECL-2.0 License](https://img.shields.io/npm/l/@jumpstudios/state-manager?label=License)](https://choosealicense.com/licenses/mit/)
+[![MIT License](https://img.shields.io/npm/l/@jumpstudios/string-util?label=License)](https://choosealicense.com/licenses/mit/)
 
-[![NPM](https://nodei.co/npm/@jumpstudios/state-manager.png)](https://npmjs.org/package/@jumpstudios/state-manager)
+[![NPM](https://nodei.co/npm/@jumpstudios/string-util.png)](https://npmjs.org/package/@jumpstudios/string-util)
 
-# @jumpstudios/state-manager
+# @jumpstudios/string-util
 
-An *Open-Source* state-manager library for *Roblox*.
+An *Open-Source* string-util library for *Roblox*.
 
 ## 🛠️ Installation
 
-Install **@jumpstudios/state-manager** with npm
+Install **@jumpstudios/string-util** with npm
 
 ```shell
-  npm i @jumpstudios/state-manager
+  npm i @jumpstudios/string-util
 ```
     
 ## ✒️ Authors
