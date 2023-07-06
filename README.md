@@ -4,7 +4,7 @@
 
 # @jumpstudios/string-util
 
-An *Open-Source* string-util library for *Roblox*.
+An *Open-Source* string library for *Roblox*.
 
 ## 🛠️ Installation
 
