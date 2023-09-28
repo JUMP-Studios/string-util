@@ -1,6 +1,6 @@
 {
   "name": "@jumpstudios/string-util",
-  "version": "1.2.6",
+  "version": "1.2.7",
   "description": "String utility functions",
   "main": "./out/init.lua",
   "keywords": [
