@@ -1,4 +1,4 @@
-const ABBREVIATIONS = ["k", "M", "B", "T", "Qa", "Qn", "Sx", "Sp", "Oc", "N"]
+const ABBREVIATIONS = ["", "k", "M", "B", "T", "Qa", "Qn", "Sx", "Sp", "Oc", "N"]
 
 export = {
 	insertCommas: (a: number | string) => {
